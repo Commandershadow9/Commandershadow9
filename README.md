@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hey, ich bin Commandershadow</h1>
 
-<!--
-**Commandershadow9/Commandershadow9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Full-Stack Developer aus Deutschland</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Aktuelles Projekt
+
+<table>
+<tr>
+<td width="100" align="center">
+<img src="https://img.shields.io/badge/G-8B5CF6?style=for-the-badge&logoColor=white" alt="GS">
+</td>
+<td>
+
+**[GuildScout](https://github.com/Commandershadow9/GuildScout-Showcase)** — Discord Guild Management Bot + Web Dashboard
+
+Production-ready Bot mit Go REST API, React 19 Dashboard und Python Discord Bot.
+Raid-Planung, Mitglieder-Ranking, Gilden-Verwaltung, Echtzeit-Sync via WebSocket.
+
+`Go` `React` `TypeScript` `Python` `PostgreSQL` `Redis` `Docker` `Traefik`
+
+</td>
+</tr>
+</table>
+
+### Was ich mache
+
+- Entwickle Full-Stack Anwendungen mit Go, React und Python
+- Betreibe eigene Server-Infrastruktur (VPS, Docker, Traefik)
+- Baue Discord-Bots mit Echtzeit-Web-Dashboards
+- Fokus auf saubere Architektur und Production-ready Code
+
+### Tech Stack
+
+```
+Backend:     Go (Fiber), Python (discord.py, asyncpg)
+Frontend:    React 19, TypeScript, Tailwind CSS, Vite
+Datenbank:   PostgreSQL, Redis
+Infra:       Docker, Traefik, systemd, Linux (Debian)
+Tools:       Git, GitHub, VS Code
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Commandershadow9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandershadow9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+</p>
