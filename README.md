@@ -51,10 +51,3 @@ Datenbank:   PostgreSQL, Redis
 Infra:       Docker, Traefik, systemd, Linux (Debian)
 Tools:       Git, GitHub, VS Code
 ```
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Commandershadow9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandershadow9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
-</p>
