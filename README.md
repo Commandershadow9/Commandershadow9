@@ -1,110 +1,69 @@
 <h1 align="center">Hey, ich bin Commandershadow</h1>
 
 <p align="center">
-  <em>Full-Stack Developer & AI Agent Builder aus Deutschland</em>
+  <em>AI Agent Builder & Full-Stack Developer aus Deutschland</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 <p align="center">
-  <strong>~254,000 lines of production code</strong> &nbsp;·&nbsp; <strong>3 AI agents in production</strong> &nbsp;·&nbsp; <strong>2 live SaaS products</strong>
+  <strong>100+ zahlende Kunden</strong> &nbsp;·&nbsp; <strong>live seit Anfang 2026</strong> &nbsp;·&nbsp; <strong>DSGVO-konformes Live-SaaS</strong>
+</p>
+
+<p align="center">
+  <em>Ich baue und betreibe <strong>ZERODOX</strong> — ein AI-gestütztes Live-SaaS mit über 100 zahlenden Kunden — vom Frontend über die autonomen AI-Agents bis zum selbst betriebenen Server.</em>
 </p>
 
 ---
 
-### Projekte
+## 🚀 ZERODOX — mein Hauptprojekt
 
-<table>
-<tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/G-d4af37?style=for-the-badge&logoColor=white" alt="GS">
-</td>
-<td>
+**[ZERODOX](https://github.com/Commandershadow9/ZERODOX-Showcase)** — Privacy-First c/o-Adressservice
+**Live-SaaS mit 100+ zahlenden Kunden · live seit Anfang 2026 · von mir allein entwickelt, betrieben und monetarisiert**
 
-**[GuildScout](https://github.com/Commandershadow9/GuildScout-Showcase)** — Discord Guild Management Bot + Web Dashboard
+Datenschutz-Plattform, die die Privatadresse von Content Creators im Impressum schützt. AI-getrieben im Kern:
 
-Production-ready Bot mit Go REST API (188 Endpoints), React 19 Dashboard (20 Pages) und Python Discord Bot.
-Raid-Planung mit Multi-Game Support, Mitglieder-Ranking, Gilden-Verwaltung, AI Feedback Agent "Herald" mit Multi-Turn Conversations, Echtzeit-Sync via WebSocket. **~128,000 Zeilen, 1,726 Tests.**
+- **Zara** — AI-Support-Agent mit Ticket-Klassifikation, Quellcode-Analyse für Bug-Reports und Eskalationserkennung
+- **Creator-Radar + Akquise-AI** — KI-gestützte Analyse von YouTube-/Twitch-Creators und automatische, personalisierte Ansprache
+- **Autonomer SEO-Agent** — mehrstufige Crawl → Audit → AI-Fix → Pull-Request-Pipeline
 
-`Go` `React` `TypeScript` `Python` `PostgreSQL` `Redis` `Docker` `AI Agents`
+**Substanz:** 349 API-Routes · 59 Datenmodelle · 105 Pages · ~296.000 Zeilen Produktivcode + ~132.000 Zeilen Tests · Passkeys/WebAuthn · TOTP-2FA · selbst betrieben (Docker/Traefik/systemd).
 
-</td>
-</tr>
-<tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/Z-00D1E8?style=for-the-badge&logoColor=white" alt="ZD">
-</td>
-<td>
+`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Passkeys` `AI Agents` `Docker`
 
-**[ZERODOX](https://github.com/Commandershadow9/ZERODOX-Showcase)** — Privacy-First c/o Address Service
+---
 
-SaaS-Plattform zum Schutz der Privatadresse von Content Creators (Impressum).
-Admin-Dashboard mit Kanban Board, Kunden-Portal mit Passkeys/WebAuthn, AI Support Agent "Zara" mit Ticket-Klassifikation und Quellcode-Analyse, Discord Bot, Creator Radar, SEO-Agent, DSGVO-konform. **~114,000 Zeilen, 122 API Routes, 52 Pages.**
+### Weitere Projekte & Experimente
 
-`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Passkeys` `Discord.js` `AI Agents` `Docker`
+Nebenprojekte rund um ZERODOX — teils produktiv, teils in aktiver Entwicklung:
 
-</td>
-</tr>
-<tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge&logoColor=white" alt="AI">
-</td>
-<td>
-
-**[AI Agent Framework](https://github.com/Commandershadow9/AI-Agent-Framework-Showcase)** — Plugin-Based Python Framework for Production AI Agents
-
-Async Python Framework mit Multi-Provider AI Chain (Codex/Claude Fallback), Dual Event System (Redis Pub/Sub + PG NOTIFY), Plugin-basierter Multi-Site Architektur.
-Betreibt 3 produktive Agents: Herald (Feedback), Zara (Support), SEO Auditor (17-Schritt-Pipeline). **~12,000 Zeilen, 6 ABCs, 5 externe API-Integrationen.**
-
-`Python` `asyncio` `Redis` `PostgreSQL` `OpenAI Codex` `Claude` `GitHub API` `Google APIs`
-
-</td>
-</tr>
-</table>
-
-### Shared Infrastructure
-
-<table>
-<tr>
-<td width="100" align="center">
-<img src="https://img.shields.io/badge/UI-EC4899?style=for-the-badge&logoColor=white" alt="UI">
-</td>
-<td>
-
-**Shared UI Library** — Cross-Project React Component Library
-
-15 Komponenten + 5 framer-motion Effekte, konsumiert als Source TSX von GuildScout (Vite) und ZERODOX (Next.js 16).
-Glass-Morphism Design System mit CSS-Variablen (`--ui-*`), Tailwind v4.
-
-</td>
-</tr>
-</table>
+- **[AI Agent Framework](https://github.com/Commandershadow9/AI-Agent-Framework-Showcase)** — das Python-Framework, das die AI-Agents hinter ZERODOX betreibt (u. a. Zara + SEO-Auditor). Multi-Provider-Chain (Codex/Claude Fallback), duales Event-System (Redis + PostgreSQL NOTIFY). Läuft produktiv, wird laufend erweitert.
+- **[GuildScout](https://github.com/Commandershadow9/GuildScout-Showcase)** — früheres Full-Stack-Projekt: Discord Guild Management mit Go-API (Fiber), Next.js-Dashboard und Python-Bot.
+- **Shared UI Library** — projektübergreifende React-Komponentenbibliothek (Glass-Morphism, Tailwind 4), von ZERODOX und GuildScout genutzt.
 
 ### Was ich mache
 
-- Entwickle Full-Stack Anwendungen mit Go, Next.js, React und Python
-- Baue AI Agents die autonom Support, Feedback-Analyse und SEO-Optimierung betreiben
-- Betreibe eigene Server-Infrastruktur (VPS, Docker, Traefik, WireGuard)
-- Entwickle SaaS-Produkte mit Fokus auf Datenschutz, Security und UX
-- Designne wiederverwendbare Frameworks und Shared Libraries
+- Baue und betreibe **ZERODOX**, ein AI-gestütztes Live-SaaS mit echten, zahlenden Kunden
+- Entwickle **autonome AI-Agents** (Support, SEO, Akquise) mit Tool-Use, strukturiertem Output und Provider-Fallback
+- Full-Stack mit **Next.js, Go, React und Python**
+- Betreibe eigene **Server-Infrastruktur** (VPS, Docker, Traefik, WireGuard, systemd)
 
 ### Tech Stack
 
 ```
-Backend:     Go (Fiber), Next.js 16, Python 3.12 (asyncio, asyncpg)
-Frontend:    React 19, TypeScript, Tailwind CSS 4, Vite, framer-motion
-AI:          OpenAI Codex CLI, Claude CLI, Provider Chain, JSON Schema Validation
+AI:          Autonome Agent-Pipelines, Multi-Provider-Chains (Codex/Claude), JSON-Schema-Output, Tool-Use
+Backend:     Next.js 16, Go (Fiber), Python 3.12 (asyncio, asyncpg)
+Frontend:    React 19, TypeScript, Tailwind CSS 4, framer-motion
 Datenbank:   PostgreSQL 16, Redis, Prisma 7 ORM
-Auth:        NextAuth v5, Passkeys/WebAuthn, TOTP 2FA, Discord OAuth, Magic Links
-Events:      Redis Pub/Sub, PostgreSQL LISTEN/NOTIFY, WebSocket, SSE
+Auth:        NextAuth v5, Passkeys/WebAuthn, TOTP 2FA, Discord OAuth
 Infra:       Docker, Traefik v3, systemd, WireGuard VPN, Let's Encrypt
-Platform:    Debian 12 VPS (self-managed), GitHub, gh CLI
 ```
+
+<p align="center"><em>🟢 Offen für AI-Engineering- & Full-Stack-Rollen</em></p>
